@@ -1,0 +1,23 @@
+INSIGHTS: Sales Uplift - Multi-Region Retail Data Analysis
+==========================================================
+
+1. Who are the most valuable customers?
+   CUST0004 (89 purchases) and CUST0055 (88 purchases) are the most valuable customers.
+
+2. Which products should we focus on next quarter?
+   Laptop, Smart Watch, Smartphone, Tablet and Headphones — all top revenue generators.
+
+3. Is Online outperforming Offline?
+   Yes. Online contributes 57.11% of total sales vs Offline at 42.89%.
+
+4. Do any regions need more marketing support?
+   Yes. North region has lowest sales of ₹1,08,16,410.98 and needs urgent marketing support.
+
+5. Which category generates highest revenue?
+   Electronics leads with ₹4,80,31,097.11 — highest among all 6 categories.
+
+6. What is the overall business performance?
+   Total Sales ₹6,06,87,745.92 across 5000 transactions from 300 unique customers.
+
+7. What is the average spending per order?
+   Average Order Value is ₹12,137.55 indicating high value purchases per transaction.
