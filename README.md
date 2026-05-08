@@ -256,6 +256,10 @@ IGNORE 1 ROWS;
 
 ---
 
+## 🎥 Project Overview
+
+https://raw.githubusercontent.com/HarshalVora86/Sales-Uplift-Strategy-Insights-from-Multi-Region-Retail-Data/main/assets/project-overview.mp4
+
 ## 👨‍💻 Author
 
 <div align="center">
