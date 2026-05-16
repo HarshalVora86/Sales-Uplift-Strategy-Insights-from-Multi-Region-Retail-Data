@@ -4,7 +4,6 @@
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Transactions](https://img.shields.io/badge/Transactions-5%2C000-blue?style=for-the-badge)
 ![Regions](https://img.shields.io/badge/Regions-4-orange?style=for-the-badge)
 
