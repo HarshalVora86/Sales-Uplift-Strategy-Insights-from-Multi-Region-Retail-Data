@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Excel Dashboard](screenshots/08_excel_dashboard.png)
+![Excel Dashboard](screenshots/Screenshot_2026-05-16_192539.png)
 
 *Interactive Excel Dashboard — Region Breakdown · Monthly Trend · Top Products · Category Performance · Sales Channel Split*
 
@@ -38,7 +38,7 @@ This project simulates a real-world **business case study** for a multi-region r
 
 ```
 📦 Sales-Uplift-Multi-Region-Retail
- ┣ 📄 RetailTransactions.csv        ← Raw dataset (5,000 rows)
+ ┣ 📄 RetailTransactions.xlsx       ← Raw dataset (5,000 rows)
  ┣ 📄 retailanalysis.sql            ← All SQL queries used
  ┣ 📄 insights.txt                  ← Key business insights
  ┣ 📊 Excel Dashboard               ← Visual dashboard
@@ -50,7 +50,7 @@ This project simulates a real-world **business case study** for a multi-region r
     ┣ 05_region_contribution_percentage.png
     ┣ 06_online_vs_offline_monthly.png
     ┣ 07_category_performance.png
-    ┗ 08_excel_dashboard.png
+    ┗ Screenshot_2026-05-16_192539.png
 ```
 
 ---
@@ -83,7 +83,7 @@ This project simulates a real-world **business case study** for a multi-region r
   📥 RAW DATA          🛠️ DATA MODELLING       📊 ANALYSIS
   ┌──────────┐         ┌──────────────┐        ┌──────────────┐
   │ Retail   │  ──▶    │  MySQL DB    │  ──▶   │  SQL Queries │
-  │ CSV File │         │  RetailDB    │        │  (7 queries) │
+  │ XLSX File│         │  RetailDB    │        │  (7 queries) │
   └──────────┘         └──────────────┘        └──────┬───────┘
                                                        │
                                                        ▼
@@ -220,7 +220,7 @@ FROM RetailTransactions GROUP BY Category ORDER BY TotalSales DESC;
 |---|---|
 | 🐬 **MySQL** | Database creation, data import & SQL querying |
 | 📊 **Microsoft Excel** | Pivot tables, charts & interactive dashboard |
-| 📝 **CSV** | Raw dataset format |
+| 📝 **XLSX** | Raw dataset format |
 | 💻 **Git & GitHub** | Version control & project hosting |
 
 ---
@@ -245,7 +245,8 @@ git clone https://github.com/HarshalVora86/Sales-Uplift-Strategy-Insights-from-M
 # 2. Import dataset into MySQL
 mysql -u root -p RetailDB < retailanalysis.sql
 
-# 3. Load the CSV into the RetailTransactions table
+# 3. Load the XLSX into the RetailTransactions table
+# Open RetailTransactions.xlsx in Excel, export as CSV, then:
 LOAD DATA INFILE 'RetailTransactions.csv'
 INTO TABLE RetailTransactions
 FIELDS TERMINATED BY ','
