@@ -18,7 +18,7 @@
 
 <div align="center">
 
-ren "screenshots\Screenshot 2026-05-16 192539.png" "08_excel_dashboard.png"
+![Excel Dashboard](screenshots/08_excel_dashboard.png)
 
 *Interactive Excel Dashboard — Region Breakdown · Monthly Trend · Top Products · Category Performance · Sales Channel Split*
 
@@ -50,7 +50,7 @@ This project simulates a real-world **business case study** for a multi-region r
     ┣ 05_region_contribution_percentage.png
     ┣ 06_online_vs_offline_monthly.png
     ┣ 07_category_performance.png
-    ┗ Screenshot_2026-05-16_192539.png
+    ┗ 08_excel_dashboard.png
 ```
 
 ---
