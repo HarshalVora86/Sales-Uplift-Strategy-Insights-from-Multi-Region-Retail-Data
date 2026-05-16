@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Excel Dashboard](screenshots/Screenshot_2026-05-16_192539.png)
+![Excel Dashboard](screenshots/Screenshot 2026-05-16 192539.png)
 
 *Interactive Excel Dashboard — Region Breakdown · Monthly Trend · Top Products · Category Performance · Sales Channel Split*
 
