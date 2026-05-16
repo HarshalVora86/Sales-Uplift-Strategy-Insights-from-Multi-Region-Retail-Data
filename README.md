@@ -18,7 +18,7 @@
 
 <div align="center">
 
-![Excel Dashboard](screenshots/Screenshot 2026-05-16 192539.png)
+ren "screenshots\Screenshot 2026-05-16 192539.png" "08_excel_dashboard.png"
 
 *Interactive Excel Dashboard — Region Breakdown · Monthly Trend · Top Products · Category Performance · Sales Channel Split*
 
